@@ -8,6 +8,7 @@ sizeStr = '%sx%s' % (height, width)
 
 window = tk.Tk()
 window.title('Button click')
+window.geometry(sizeStr)
 
 ####################################
 
