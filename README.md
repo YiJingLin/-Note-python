@@ -15,7 +15,7 @@ Note for python toolkit
 
 ### Tkinter: 
 
-> Dec 28, 2017
+> Dec 28 - 07, 2017
 
 - Window and button
 - input
