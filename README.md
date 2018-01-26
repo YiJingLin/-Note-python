@@ -5,21 +5,21 @@ Note for python toolkit
 
 ## Update :
 
-- Numpy.random :
+###Numpy.random :
 
-> Jan 26, 2017 \
+> Jan 26, 2017
 
-	- random_smaple
-	- random_rand
-	- **random_choice**
+- random_smaple
+- random_rand
+- **random_choice**
 
-- Tkinter: 
+###Tkinter: 
 
-> Dec 28, 2017 \
+> Dec 28, 2017
 
-	- Window and button
-	- input
-	- radio button and scroll bar
-	- check button
-	- **Canvas**
-	- Menu bar
+- Window and button
+- input
+- radio button and scroll bar
+- check button
+- **Canvas**
+- Menu bar
