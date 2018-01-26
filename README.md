@@ -5,7 +5,7 @@ Note for python toolkit
 
 ## Update :
 
-###Numpy.random :
+### Numpy.random :
 
 > Jan 26, 2017
 
@@ -13,7 +13,7 @@ Note for python toolkit
 - random_rand
 - **random_choice**
 
-###Tkinter: 
+### Tkinter: 
 
 > Dec 28, 2017
 
