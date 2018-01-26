@@ -7,14 +7,16 @@ Note for python toolkit
 
 - Numpy.random :
 
-> Jan 26, 2017
+> Jan 26, 2017 \
+
 	- random_smaple
 	- random_rand
 	- **random_choice**
 
 - Tkinter: 
 
-> Dec 28, 2017
+> Dec 28, 2017 \
+
 	- Window and button
 	- input
 	- radio button and scroll bar
