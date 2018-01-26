@@ -7,7 +7,7 @@ Note for python toolkit
 
 ### Numpy.random :
 
-> Jan 26, 2017
+> Jan 26, 2018
 
 - random_smaple
 - random_rand
