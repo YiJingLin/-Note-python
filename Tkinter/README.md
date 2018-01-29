@@ -1,8 +1,5 @@
 # Tkinter :
 Python's de-facto standard GUI (Graphical User Interface) package.
-> From : Dec 28, 2017 \
-> To : -
-
 ## Learn chapter :
 0. show tkinter window
 1. button and onclick(command)
