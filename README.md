@@ -4,6 +4,14 @@ Note for python toolkit
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Update :
+### map, filter and reduce :
+> Feb 03, 2018
+
+- **map** : map(func, list)
+- **filter** : filter(func, list)
+- **reduce** : reduce(func, list)
+(you should import reduce in functools)
+
 ### Threading :
 > Jan 29, 2018
 
