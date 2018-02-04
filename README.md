@@ -4,6 +4,16 @@ Note for python toolkit
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Update :
+
+### Crawler/BeautifulSoup :
+> Feb 04, 2018
+- find_all
+	- attribute filter
+	- regular expression
+- get content
+	- result.get_text()
+	- result[<attr>]
+
 ### map, filter and reduce :
 > Feb 03, 2018
 
