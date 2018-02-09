@@ -5,6 +5,15 @@ Note for python toolkit
 
 ## Update :
 
+### Crawler/Requests :
+> Feb 09, 2018
+- requests.get
+- requests.post
+	- data
+	- cookies
+	- files
+- requests.Session()
+
 ### Crawler/BeautifulSoup :
 > Feb 04, 2018
 - find_all
