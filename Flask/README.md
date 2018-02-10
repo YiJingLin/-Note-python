@@ -2,9 +2,9 @@
 > Feb 10, 2018
 
 ## **outline**	
-	- [get started](#getstarted)
-	- [render](#render)
-	- [router](#router)
+- [get started](#getstarted)
+- [render](#render)
+- [router](#router)
 
 <div id="getstarted"></div> 
 
@@ -17,7 +17,7 @@ app = Flask(__name__)
 
 <div id="render"></div>
 
-## [render](#)
+# [render](#)
 
 
 ### basic return
@@ -54,7 +54,7 @@ def not_found(error):
 
 <div id="router"></div>
 
-## [router](#)
+# [router](#)
 
 ```python
 ```
