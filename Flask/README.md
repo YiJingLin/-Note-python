@@ -1,11 +1,13 @@
 # Flask
 > Feb 10, 2018
-- **outline**	
+
+## **outline**	
 	- [get started](#getstarted)
 	- [render](#render)
 	- [router](#router)
 
 <div id="getstarted"></div> 
+
 ## get started
 
 ```python
@@ -13,7 +15,8 @@ from flask import Flask
 app = Flask(__name__)
 ```
 
-<div id="render"></div> 
+<div id="render"></div>
+
 ## [render](#)
 
 
@@ -49,7 +52,8 @@ def not_found(error):
     return render_template('error.html'), 404
 ```
 
-<div id="router"></div> 
+<div id="router"></div>
+
 ## [router](#)
 
 ```python
