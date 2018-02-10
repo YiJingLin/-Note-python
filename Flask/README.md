@@ -1,11 +1,11 @@
 # Flask
 > Feb 10, 2018
-## **outline**	
-	- [get started](#get started)
+- **outline**	
+	- [get started](#getstarted)
 	- [render](#render)
 	- [router](#router)
 
-<div id="get started"></div> 
+<div id="getstarted"></div> 
 ## get started
 
 ```python
