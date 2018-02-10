@@ -5,6 +5,12 @@ Note for python toolkit
 
 ## Update :
 
+### Flask :
+> Feb 10, 2018
+- app = Flask(__name__)
+- render
+- router
+
 ### Crawler/Requests :
 > Feb 09, 2018
 - requests.get
