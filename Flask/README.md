@@ -1,8 +1,7 @@
 # Flask
 > Feb 10, 2018
 
-## **outline**	
-- [get started](#getstarted)
+## outline	
 - [render](#render)
 - [router](#router)
 
