@@ -5,6 +5,11 @@ Note for python toolkit
 
 ## Update :
 
+### SQLite3 :
+> Feb 11, 2018
+- db = sqlite3.connect(filepath)
+- db.execute(query)
+
 ### Flask :
 > Feb 10, 2018
 - app = Flask(__name__)
