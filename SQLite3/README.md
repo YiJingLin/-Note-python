@@ -30,3 +30,10 @@ with open(sql_file_path) as f:
 with db:
     db.executescript(create_db_sql)
 ```
+
+### store back to db and close db connection
+
+```python
+db.commit()
+db.close()
+```
