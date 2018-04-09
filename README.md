@@ -5,6 +5,9 @@ Note for python toolkit
 
 ## Update :
 
+### Matplotlib/ ColorMap :
+> Apr 09, 2018
+
 ### SQLite3 :
 > Feb 11, 2018
 - db = sqlite3.connect(filepath)
