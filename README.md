@@ -5,10 +5,17 @@ Note for python toolkit
 
 ## Update :
 
-### Matplotlib/ ColorMap :
+### [pytorch - functions](http://pytorch.org/docs/stable/torch.html)
+> Apr 26, 2018
+- __view__ : like numpy reshape
+- __squeeze__ : remove redundant dimension
+- __unsqueeze__ : add new one-dim to specified index (dimension).
+
+
+### [Matplotlib - ColorMap](https://matplotlib.org/tutorials/colors/colormaps.html)
 > Apr 09, 2018
 
-### SQLite3 :
+### [SQLite3](https://docs.python.org/2/library/sqlite3.html)
 > Feb 11, 2018
 - db = sqlite3.connect(filepath)
 - db.execute(query)
