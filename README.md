@@ -5,8 +5,9 @@ Note for python toolkit
 
 ## Update :
 
-### [pytorch - functions](http://pytorch.org/docs/stable/torch.html)
+### [pytorch - functions](#)
 > Apr 26, 2018
+([link](./pyTorch/1-1%20Tensor%20functions.ipynb))([ref](http://pytorch.org/docs/stable/torch.html))
 - __view__ : like numpy reshape
 - __squeeze__ : remove redundant dimension
 - __unsqueeze__ : add new one-dim to specified index (dimension).
