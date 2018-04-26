@@ -5,9 +5,16 @@ Note for python toolkit
 
 ## Update :
 
-### [pytorch - functions](#)
+### [pyTorch - Tensor advanced function](#)
+> Apr 27, 2018
+([link](./pyTorch/2-1%20Tensor%20advanced%20functions.ipynb)), ([ref](https://www.zhihu.com/question/60321866))
+The tensor should be contiguous before making view (reshape) call.
+- __Tensor.is_contiguous()__ _(boolean)_ : check if tensor is contiguous or not
+- __Tensor.contiguous()__ _(none)_: return contiguous tensor
+
+### [pyTorch - Tensor functions](#)
 > Apr 26, 2018
-([link](./pyTorch/1-1%20Tensor%20functions.ipynb))([ref](http://pytorch.org/docs/stable/torch.html))
+([link](./pyTorch/1-1%20Tensor%20functions.ipynb)), ([ref](http://pytorch.org/docs/stable/torch.html))
 - __view__ : like numpy reshape
 - __squeeze__ : remove redundant dimension
 - __unsqueeze__ : add new one-dim to specified index (dimension).
