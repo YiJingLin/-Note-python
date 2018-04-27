@@ -5,6 +5,12 @@ Note for python toolkit
 
 ## Update :
 
+### [pyTorch - Dataset and Dataloader](#)
+> Apr 27, 2018
+([link](./pyTorch/3-5%20utils.Data.ipynb)), ([ref](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-05-train-on-batch/))
+- __Data.TensorDataset(data_tensor=x, target_tensor=y)__
+- __Data.DataLoader(dataset = torch_dataset, batch_size, shuffle, n_workers)__
+
 ### [pyTorch - Tensor advanced function](#)
 > Apr 27, 2018
 ([link](./pyTorch/2-1%20Tensor%20advanced%20functions.ipynb)), ([ref](https://www.zhihu.com/question/60321866))
